@@ -20,4 +20,4 @@ module.exports = {
             res.render("quotes", {quotes: quotes});
         });
     }
-}
+};
